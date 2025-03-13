@@ -1,6 +1,8 @@
-A specialized field that investigates cyber incidents by collecting, analyzing, and preserving digital evidence to understand the nature of an attack, identify perpetrators, and prevent future incidents.
+# Computer Forensics Notes
 
-Cyber crime - crime conducted via the internet or any computer network.
+- A specialized field that investigates cyber incidents by collecting, analyzing, and preserving digital evidence to understand the nature of an attack, identify perpetrators, and prevent future incidents.
+
+- Cyber crime - crime conducted via the internet or any computer network.
 
 
 # Applications of Forensics
@@ -20,7 +22,7 @@ Cyber crime - crime conducted via the internet or any computer network.
 
 ------------------------------------------------
 
-# Phases ofForensics.
+# Phases of Forensics.
 ​
 1. Identification(What evidence is needed) 
 - Understanding hacker footprints
@@ -51,7 +53,7 @@ Cyber crime - crime conducted via the internet or any computer network.
 
 -----------------------------------------------------------------
 
-# Data Recovery.
+# Data Recovery
 
 - An attempt to pull out as much information from the data as po
 Collect broken hard drives
