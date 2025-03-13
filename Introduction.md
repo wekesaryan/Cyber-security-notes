@@ -618,12 +618,12 @@ $kex & -> launch VNC server
 
 9. Telecommunication
     - Calls & SMS 
-         - TV & Radio channels 
+    - TV & Radio channels 
 
 -----------------------------------------------------------------
 
 
-#     Some useful chrome extensions
+# Some useful chrome extensions
 
 1. Cookie editor
 2. Firebug lite for google chrome
