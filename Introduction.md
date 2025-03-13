@@ -1,6 +1,6 @@
- # Ethics 🔹 Laws 🔹 Legal 🔹 Standards
+# Ethics 🔹 Laws 🔹 Legal 🔹 Standards
 
-# Common standards.
+## Common standards.
 1. NIST
 2. ISO
 3. CSF
@@ -10,7 +10,7 @@
 
 📌 Don't learn to hack, hack to learn.
 
-  #Ethical Hacking Bodies.
+## Ethical Hacking Bodies.
 
 1. Computer fraud and abuse Act (CFAA)
 2. INTERPOL
@@ -21,7 +21,8 @@
 
 --------------------------------------------------------------
 
-##       Hacking Motives/goals 
+## Hacking Motives/goals
+
 1. Challenge - learn
 2. Recognition - bond, acquire
 3. Curiosity - learn
@@ -38,12 +39,12 @@ Attack = Motive + method + vulnerability
 
 
 
- Elements of information security 
+## Elements of information security 
           C.I.A triad
 
 C - Confidentiality
-ℹ️ - Integrity
-🅰️ - Availability
+I - Integrity
+A - Availability
 
 📌There exists no perfectly secure system.
 📌 Secrecy is security.
@@ -52,7 +53,7 @@ C - Confidentiality
 
 --------------------------------------------------------------
 
-    Hacker skill levels
+ ## Hacker skill levels
         
           Script kiddies(begginer)
                   ↓
@@ -60,7 +61,7 @@ C - Confidentiality
           Green hat(basic techniques)
                   ↓
             Hacker group 
-          Whistle blowers
+          
                   ↓
           Hactivist(advanced techniques)
                   ↓   
@@ -70,7 +71,7 @@ C - Confidentiality
 
           Cyber terrorist 
 
-Hacker skill sets.
+## Hacker skill sets.
 
        Technical skills 
 - Operating system knowledge 
@@ -88,7 +89,7 @@ Hacker skill sets.
 
 -----------------------------------------------------------------
 
-     Types of hackers.
+ ## Types of hackers.
 
 1. White hat - ethical 
 2. Grey hat - neutral 
@@ -103,7 +104,7 @@ Yellow team - builders
 
 -----------------------------------------------------------------
 
- #   Phases of hacking 
+# Phases of hacking 
   
 1. Information gathering
 2. Scannning and Enumeration
@@ -124,7 +125,7 @@ Virtual environment. 
 -  
 
 
-##        Hacking OS
+## Hacking OS
 - Kali linux
 - Parrot
 - Backbox
@@ -216,11 +217,14 @@ $sudo apt autoremove -y
 ---
 2. Remove Unnecessary Tools & Packages
 $dpkg --get-selections | grep kali
+
 $sudo apt remove --purge kali-linux-forensic kali-linux-voip kali-linux-wireless -y
+
 $sudo apt autoremove -y
 
 To remove all Kali hacking tools and keep only the essentials:
 $sudo apt remove --purge kali-linux-default -y
+
 $sudo apt autoremove -y
 
 If you only need specific tools, install them manually instead.
@@ -234,6 +238,7 @@ $systemctl list-unit-files --type=service | grep enabled
 
 Disable Unnecessary Services
 $sudo systemctl disable $bluetooth.service
+
 $sudo systemctl stop bluetooth.service
 
 Disable NetworkManager-wait-online, which can slow down boot times:
@@ -246,7 +251,9 @@ $sudo systemctl disable NetworkManager-wait-online.service
 Remove Old Dependencies & Cached Packages
 
 $sudo apt autoremove -y
+
 $sudo apt autoclean -y
+
 $sudo apt clean -y
 
 Delete Log Files
@@ -254,6 +261,7 @@ $sudo rm -rf /var/log/*
 
 Check for Large Unused Files & clear it:
 $du -sh /var/cache/apt
+
 $sudo rm -rf /var/cache/apt/archives/*
 
 ---
@@ -262,11 +270,13 @@ $sudo rm -rf /var/cache/apt/archives/*
 
 Use ZRAM (Compressed Swap in RAM)
 $sudo apt install zram-tools -y
+
 $sudo systemctl enable --now zramswap.service
 
 Reduce Swappiness
 $echo 'vm.swappiness=10' | sudo tee -a /etc/sysctl.conf
-sudo sysctl -p
+
+$sudo sysctl -p
 
 ---
 
@@ -280,6 +290,7 @@ $sudo systemctl disable <service-name>
 
 Use Systemd-analyze to Check Boot Time
 $systemd-analyze
+
 $systemd-analyze blame
 
 ---
@@ -323,8 +334,11 @@ $sudo reboot
 ---
 
 ✅ Reduced Storage Usage by removing unnecessary packages
+
 ✅ Faster Boot Time by disabling unneeded services
+
 ✅ Lower RAM Usage with ZRAM and swappiness tuning
+
 ✅ Improved Network Speed with optimized DNS
 
 -----------------------------------------------------------------
@@ -340,6 +354,7 @@ $sudo apt update && sudo apt install -y live-build cdebootstrap curl git
 2. Clone the Kali Linux ISO Builder
 
 $git clone https://gitlab.com/kalilinux/build-scripts/live-build-config.git
+
 $cd live-build-config
 
 ---
@@ -422,9 +437,13 @@ Create a new VM and select your custom ISO as the installation medium.
 ---
 
 ✅ Optimized performance (faster boot, reduced RAM usage)
+
 ✅ Reduced storage (removed unneeded tools)
+
 ✅ Customized networking & security settings.
+
 ❌ Kernel & system updates might introduce new settings that need re-tweaking.
+
 ❌ DNS and network settings might be reset unless locked.
 
 
@@ -433,7 +452,9 @@ Create a new VM and select your custom ISO as the installation medium.
 # Parrot Security OS.
 
 $sudo su
+
 $passwd root
+
 $ apt update && apt upgrade -y
 
 Install your preffered media player
