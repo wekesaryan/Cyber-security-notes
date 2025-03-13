@@ -103,14 +103,19 @@ Yellow team - builders
 
 -----------------------------------------------------------------
 
-    Phases of hacking 
+ #   Phases of hacking 
   
-
+1. Information gathering
+2. Scannning and Enumeration
+3. Exploitation/Gaining access
+4. Post exploitation / Maintaining Access
+5. Clearing tracks
+6. Analysis and reporting 
 
 -----------------------------------------------------------------
 
 
-Hacking Lab set-up.
+# Hacking Lab set-up.
 
 Virtual environment. 
 - VMware workstation player
@@ -119,7 +124,7 @@ Virtual environment. 
 -  
 
 
-        Hacking OS
+##        Hacking OS
 - Kali linux
 - Parrot
 - Backbox
@@ -182,7 +187,7 @@ Maintaining Access 
 
 
           
-      Kali Linux.
+#      Kali Linux.
 
 
 $sudo apt update &- sudo apt upgrade -y
@@ -318,7 +323,7 @@ $sudo reboot
 
 -----------------------------------------------------------------
 
-Custom Kali Linux ISO.
+#  Custom Kali Linux ISO.
 
 1. Install live-build and Dependencies
 
@@ -419,7 +424,7 @@ Create a new VM and select your custom ISO as the installation medium.
 
 -----------------------------------------------------------------
 
-Parrot Security OS.
+# Parrot Security OS.
 
 $sudo su
 $passwd root
@@ -443,7 +448,7 @@ Install your penetration tools
 
 -----------------------------------------------------------------
 
-        Metasploit Framework 
+#        Metasploit Framework 
 
    Components of MF
 1.Exploit
@@ -479,9 +484,9 @@ $service metasploit start
 
 
 
-°°°°°°°°°°°°°°°°°°°°°°°°°°
+-----------------------------------
 
-       Metasploitable 3.
+#       Metasploitable 3.
 
      System requirements 
 1. 65 GB available disk space
@@ -558,7 +563,7 @@ $kex & -> launch VNC server
 -----------------------------------------------------------------
 
 
-Potential Targets.
+# Potential Targets.
 
 1. Financial institutions 
         - Bank
@@ -612,7 +617,7 @@ Potential Targets.
 -----------------------------------------------------------------
 
 
-     Some useful chrome extensions
+#     Some useful chrome extensions
 
 1. Cookie editor
 2. Firebug lite for google chrome
