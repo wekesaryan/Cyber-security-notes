@@ -200,7 +200,7 @@ $sudo apt-get autoclean
 
 
 ---
-   Optimize/customize Kali linux.
+#   Optimize/customize Kali linux.
 
 1. Use a Lightweight Desktop Environment i.e LXQt, Openbox, or i3.
 Install LXQt (Lightweight alternative to XFCE)
@@ -540,7 +540,7 @@ Username: Vagrant passwd : vagrant
 
 
 
-Rooting Android phone
+# Rooting Android phone
 
 Requirements/Tools
 1. Island apk
@@ -572,41 +572,41 @@ $kex & -> launch VNC server
 # Potential Targets.
 
 1. Financial institutions 
-        - Bank
-        - Cryptocurrency
-        - Saccos
-        - Mobile banking
-        - ATM machines
-        - Supply chain vendors    
+ - Bank
+ - Cryptocurrency
+ - Saccos
+ - Mobile banking
+ - ATM machines
+ - Supply chain vendors    
 
 2. Infrastructure 
-      - electric grids
-      - natural gas lines
-      - Electric vehicles
+ - electric grids
+ - natural gas lines
+ - Electric vehicles
 
 3. Systems
-      - E-commerce 
-      - Betting - money
-      - School - fee records, report cards
-      - Healthcare - patients records 
-      - Voting systems
-      - Tax authority ie KRA
+ - E-commerce 
+ - Betting - money
+ - School - fee records, report cards
+ - Healthcare - patients records 
+ - Voting systems
+ - Tax authority ie KRA
 
 
 4. Social media
-      - Meta(FB, IG, WhatsApp)
-      - X
-     - LinkedIn
-     - Telegram,Signal, 
+  - Meta(FB, IG, WhatsApp)
+  - X
+  - LinkedIn
+  - Telegram,Signal, 
 
 5. AI models
-      - Jailbreak chatbots
-      - IoT devices
+   - Jailbreak chatbots
+   - IoT devices
 
 6. Computer Networks 
-      - Wi-fi, Server, router
-      - Surveillance - CCTV, Webcams
-      - Satellites communication
+  - Wi-fi, Server, router
+  - Surveillance - CCTV, Webcams
+  - Satellites communication
 
 7. Video games
        - make game easier
@@ -616,8 +616,8 @@ $kex & -> launch VNC server
      - Valuable data - credit cards, ID
      - Espionage - spying competitors
 
-9. Telecommunication 
-         - Calls & SMS 
+9. Telecommunication
+    - Calls & SMS 
          - TV & Radio channels 
 
 -----------------------------------------------------------------
