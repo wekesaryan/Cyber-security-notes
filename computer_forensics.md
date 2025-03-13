@@ -3,12 +3,14 @@ A specialized field that investigates cyber incidents by collecting, analyzing,
 Cyber crime - crime conducted via the internet or any computer network.
 
 
-# Applications of Forensics.  
+# Applications of Forensics
+
 - Legal investigations
 - Corporate security incidents
 - Cybersecurity research. 
 
 # LAWs
+
 - Federal Information Security Management Act(FISM)
 - Gramm-Leach Bliley Act(GLBA)
 - Health Insuarance Portability & Accountability Act(HIPAA)
@@ -18,7 +20,7 @@ Cyber crime - crime conducted via the internet or any computer network.
 
 ------------------------------------------------
 
-#   Phases ofForensics.
+# Phases ofForensics.
 ​
 1. Identification(What evidence is needed) 
 - Understanding hacker footprints
@@ -36,7 +38,8 @@ Cyber crime - crime conducted via the internet or any computer network.
 5. Presentation(Deliver evidence)
 - Present your documentation to the relevant authorities. 
 
-# Required Skills.
+# Required Skills
+
 - Programming
 - Cyber security standards 
 - ISO standards
@@ -127,7 +130,7 @@ Traditional forensics analysis 
 
 -----------------------------------------------------------------
 
-# Undercover investigation 
+# Undercover investigation 
 
 Is where a digital forensics guy pretends to be an attacker to gain community trust so as to get more first hand information.
 
