@@ -86,9 +86,10 @@ A - Availability
 2. Grey hat - neutral 
 3. Black hat - bad guy
 
-Red team - attackers 
-Blue team - defenders 
-Yellow team - builders
+
+- Red team - attackers 
+- Blue team - defenders 
+- Yellow team - builders
 
  
 
@@ -109,7 +110,7 @@ Yellow team - builders
 
 # Hacking Lab set-up.
 
-Virtual environment. 
+## Virtual environment. 
 - VMware workstation player
 - Oracle Virtual Box
 - Windows sandbox 
@@ -164,7 +165,7 @@ Scanning and enumeration 
 - Burp Suite
 
 Exploitations 
-- Metasploit framework 
+- Metasploit Framework 
 - SQLmap
 - John the Ripper 
 - Hydra
