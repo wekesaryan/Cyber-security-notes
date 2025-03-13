@@ -54,25 +54,25 @@ A - Availability
 
 
 
- ## Hacker skill levels
+## Hacker skill levels
         
-    Script kiddies(begginer)   
-    Green hat(basic techniques)
-    Hacker group 
-    Hactivist(advanced techniques)
-    Botnet hackers
-    Cyber terrorist 
+Script kiddies(begginer)   
+Green hat(basic techniques)
+Hacker group 
+Hactivist(advanced techniques)
+Botnet hackers
+Cyber terrorist 
 
 ## Hacker skill sets.
 
-###       Technical skills 
+### Technical skills 
 - Operating system knowledge 
 - Computer Networking skills 
 - Hardware & software capabilities
 - Past vulnerabilities & attacks
 - Software development 
 
-###     Non-technical skills 
+### Non-technical skills 
 - Learning ability 
 - Problem solving skills 
 - Communication skills 
