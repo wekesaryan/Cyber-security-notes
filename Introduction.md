@@ -19,7 +19,7 @@
 5. NSO
 6. The Children Online Privacy Protection Act 
 
---------------------------------------------------------------
+
 
 ## Hacking Motives/goals
 
@@ -35,6 +35,7 @@
 Attack = Motive + method + vulnerability
 
 📌Hackers are not criminals, they are explorers and inventors.
+
 📌Never trust anybody.
 
 
@@ -47,40 +48,31 @@ I - Integrity
 A - Availability
 
 📌There exists no perfectly secure system.
+
 📌 Secrecy is security.
 
 
 
---------------------------------------------------------------
 
  ## Hacker skill levels
         
-          Script kiddies(begginer)
-                  ↓
-
-          Green hat(basic techniques)
-                  ↓
-            Hacker group 
-          
-                  ↓
-          Hactivist(advanced techniques)
-                  ↓   
-
-          Botnet hackers
-                  ↓   
-
-          Cyber terrorist 
+    Script kiddies(begginer)   
+    Green hat(basic techniques)
+    Hacker group 
+    Hactivist(advanced techniques)
+    Botnet hackers
+    Cyber terrorist 
 
 ## Hacker skill sets.
 
-       Technical skills 
+###       Technical skills 
 - Operating system knowledge 
 - Computer Networking skills 
 - Hardware & software capabilities
 - Past vulnerabilities & attacks
 - Software development 
 
-     Non-technical skills 
+###     Non-technical skills 
 - Learning ability 
 - Problem solving skills 
 - Communication skills 
@@ -89,7 +81,7 @@ A - Availability
 
 -----------------------------------------------------------------
 
- ## Types of hackers.
+## Types of hackers.
 
 1. White hat - ethical 
 2. Grey hat - neutral 
