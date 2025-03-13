@@ -56,12 +56,12 @@ A - Availability
 
 ## Hacker skill levels
         
-Script kiddies(begginer)   
-Green hat(basic techniques)
-Hacker group 
-Hactivist(advanced techniques)
-Botnet hackers
-Cyber terrorist 
+- Script kiddies(begginer)   
+- Green hat(basic techniques)
+- Hacker group 
+- Hactivist(advanced techniques)
+- Botnet hackers
+- Cyber terrorist 
 
 ## Hacker skill sets.
 
@@ -79,7 +79,6 @@ Cyber terrorist 
 - Laws & regulations awareness 
 
 
------------------------------------------------------------------
 
 ## Types of hackers.
 
@@ -132,7 +131,7 @@ Virtual environment. 
 - Windows Subsystem for Linux (WSL)
 - Rooted Mobile phone 
 
-Vulnerable tools.
+## Vulnerable tools
 
 - Metasploitable 1 & 2
 - Windows 2000, 2003, 07, 08, 10, 11
@@ -149,7 +148,7 @@ Vulnerable tools.
 - Hack The Box 
 
 
-    Essential tools
+## Essential tools
 Reconnaissance phase
 - Nmap
 - Maltego-ng 
@@ -180,7 +179,7 @@ Maintaining Access 
 
 
           
-#      Kali Linux
+# Kali Linux
 
 
 $sudo apt update &- sudo apt upgrade -y
@@ -193,7 +192,7 @@ $sudo apt-get autoclean
 
 
 ---
-#   Optimize/customize Kali linux.
+## Optimize/customize Kali linux.
 
 1. Use a Lightweight Desktop Environment i.e LXQt, Openbox, or i3.
 Install LXQt (Lightweight alternative to XFCE)
@@ -335,7 +334,7 @@ $sudo reboot
 
 -----------------------------------------------------------------
 
-#  Custom Kali Linux ISO.
+## Custom Kali Linux ISO.
 
 1. Install live-build and Dependencies
 
