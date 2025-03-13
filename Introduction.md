@@ -1,6 +1,6 @@
  # Ethics 🔹 Laws 🔹 Legal 🔹 Standards
 
-#Common standards.
+# Common standards.
 1. NIST
 2. ISO
 3. CSF
