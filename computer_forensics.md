@@ -1,9 +1,10 @@
-- A specialized field that investigates cyber incidents by collecting, analyzing, and preserving digital evidence to understand the nature of an attack, identify perpetrators, and prevent future incidents
+A specialized field that investigates cyber incidents by collecting, analyzing, and preserving digital evidence to understand the nature of an attack, identify perpetrators, and prevent future incidents.
 
 Cyber crime - crime conducted via the internet or any computer network.
 
-#       Applications of Forensics.  
- - Legal investigations
+
+# Applications of Forensics.  
+- Legal investigations
 - Corporate security incidents
 - Cybersecurity research. 
 
@@ -20,14 +21,14 @@ Cyber crime - crime conducted via the internet or any computer network.
 #   Phases ofForensics.
 ​
 1. Identification(What evidence is needed) 
-✅ Understanding hacker footprints
+- Understanding hacker footprints
 
 2.Preservation(Integrity)
 
 3. Analysis(Data insights)
-✅ Network traffic analysis
-✅ Using OSINT tools for investigation
-✅ Log monitoring for threat detection
+- Network traffic analysis
+- Using OSINT tools for investigation
+- Log monitoring for threat detection
 
 4. Documentation & Report
 - Write down a comprehensive report on the findings.
@@ -35,7 +36,7 @@ Cyber crime - crime conducted via the internet or any computer network.
 5. Presentation(Deliver evidence)
 - Present your documentation to the relevant authorities. 
 
-       Required Skills.
+# Required Skills.
 - Programming
 - Cyber security standards 
 - ISO standards
@@ -47,7 +48,7 @@ Cyber crime - crime conducted via the internet or any computer network.
 
 -----------------------------------------------------------------
 
-#    Data Recovery.
+# Data Recovery.
 
 - An attempt to pull out as much information from the data as po
 Collect broken hard drives
@@ -62,7 +63,7 @@ Tools
 
 --------------------------------------------------------------
 
-#     Password attacks
+# Password attacks
 
 - This techniques will enable you to unlock compromised media 
 
@@ -87,7 +88,7 @@ Tools
 
 ----------------------------------------------------------
 
- #   Intelligence gathering 
+ # Intelligence gathering 
 
      Open source intelligence 
 
@@ -115,7 +116,7 @@ Tools
 
 ----------------------------------------------------------
  
-#  Event reconstruction 
+# Event reconstruction 
 
 Traditional forensics analysis 
 - Fingerprints
@@ -126,7 +127,7 @@ Traditional forensics analysis 
 
 -----------------------------------------------------------------
 
-#   Undercover investigation 
+# Undercover investigation 
 
 Is where a digital forensics guy pretends to be an attacker to gain community trust so as to get more first hand information.
 
@@ -138,11 +139,7 @@ Is where a digital forensics guy pretends to be an attacker to gain community tr
 
 ----------------------------------------------------------
 
-
-
-----------------------------------------------------------
-
-#  Documentation and Reporting    
+# Documentation and Reporting    
 
 
 Should be 
