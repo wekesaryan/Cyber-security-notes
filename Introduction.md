@@ -187,12 +187,15 @@ Maintaining Access 
 
 
           
-#      Kali Linux.
+#      Kali Linux
 
 
 $sudo apt update &- sudo apt upgrade -y
+
 $ sudo -i enable root , -l disable root
+
 $ sudo apt-get autoremove
+
 $sudo apt-get autoclean
 
 
@@ -203,8 +206,11 @@ $sudo apt-get autoclean
 Install LXQt (Lightweight alternative to XFCE)
 
 $sudo apt install kali-desktop-lxqt -y
+
 $sudo apt install openbox obconf obmenu -y
+
 $sudo apt remove --purge kali-desktop-xfce -y
+
 $sudo apt autoremove -y
 
 ---
