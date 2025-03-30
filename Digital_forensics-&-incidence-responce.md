@@ -1,17 +1,15 @@
-# Computer Forensics Notes
-
-- A specialized field that investigates cyber incidents by collecting, analyzing, and preserving digital evidence to understand the nature of an attack, identify perpetrators, and prevent future incidents.
+A specialized field that investigates cyber incidents by collecting, analyzing, and preserving digital evidence to understand the nature of an attack, identify perpetrators, and prevent future incidents.
 
 - Cyber crime - crime conducted via the internet or any computer network.
 
 
-# Applications of Forensics
+## Applications of Forensics
 
 - Legal investigations
 - Corporate security incidents
 - Cybersecurity research. 
 
-# LAWs
+## LAWs
 
 - Federal Information Security Management Act(FISM)
 - Gramm-Leach Bliley Act(GLBA)
@@ -40,7 +38,7 @@
 5. Presentation(Deliver evidence)
 - Present your documentation to the relevant authorities. 
 
-# Required Skills
+## Required Skills
 
 - Programming
 - Cyber security standards 
@@ -51,9 +49,10 @@
 - Persaverance
 - Good communication skills 
 
+
 -----------------------------------------------------------------
 
-# Data Recovery
+## Data Recovery
 
 - An attempt to pull out as much information from the data as po
 Collect broken hard drives
@@ -68,7 +67,7 @@ Tools
 
 --------------------------------------------------------------
 
-# Password attacks
+## Password attacks
 
 - This techniques will enable you to unlock compromised media 
 
@@ -83,7 +82,7 @@ Tools
 
 ----------------------------------------------------------
 
-# Interview/ interrogation 
+## Interview/ interrogation 
 
 - The ability to ask questions in a way that maximizes the amount of true information the investigator knows 
 
@@ -93,22 +92,19 @@ Tools
 
 ----------------------------------------------------------
 
- # Intelligence gathering 
+ ## Intelligence gathering 
 
-     Open source intelligence 
+### Open source intelligence 
 
 - Publicly available 
-
 - Github
 - Social media content 
 
 
+### Close source intelligence 
+This is information gained from non-public sources.
 
-
-     Close source intelligence 
-- comes from non-public sources
-
--  Past cases
+- Past cases
 - Law enforcement 
 - Police operations 
 - Millitary & intelligence sources 
@@ -121,7 +117,7 @@ Tools
 
 ----------------------------------------------------------
  
-# Event reconstruction 
+## Event reconstruction 
 
 Traditional forensics analysis 
 - Fingerprints
@@ -132,7 +128,7 @@ Traditional forensics analysis 
 
 -----------------------------------------------------------------
 
-# Undercover investigation 
+## Undercover investigation 
 
 Is where a digital forensics guy pretends to be an attacker to gain community trust so as to get more first hand information.
 
@@ -144,15 +140,17 @@ Is where a digital forensics guy pretends to be an attacker to gain community tr
 
 ----------------------------------------------------------
 
-# Documentation and Reporting    
+## Documentation and Reporting    
 
 
 Should be 
-✅Clear.
+✅Clear
+
 ✅ Concise 
+
 ✅ Consistent 
 
-Tools
+## Documentation Tools
 - Word processor 
 
 
@@ -160,6 +158,15 @@ Tools
 -----------------------------------------------------------------
 
 
+## Useful resources
+
+### Websites
+
+- https://forensics.wiki/
+
+### Videos & tutorials
+
+- 13cubed youtube channel
 
 
 
