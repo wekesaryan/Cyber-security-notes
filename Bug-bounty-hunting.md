@@ -7,7 +7,7 @@ It Is the practice of finding and reporting security vulnerabilities in software
 - Ethical hacking
 
 
-  Platforms/Forums.
+## Platforms/Forums.
 
 These are platforms where you can report bugs.
 1. Open for signup
@@ -15,14 +15,14 @@ These are platforms where you can report bugs.
 - [BountyFactory](bountyfactory.io)
 - [Bugbounty JP](https://bugbounty.jp)
 - [Bug crowd](https://bugcrowd.com)
-- [Google Bug Hunters](https://bughunters.google.com)
+- [Google Bug Hunters](https://bughunters.google.com)
 - [Cesppa](https://cesppa.com/)
 - [Cobalt](https://cobalt.io)
 - [Codee bounty](oderbounty.com)
-- [ Detectify]cs.detectify.com)
-- [Freedom Sponsers]freedomsponsers.org)
-- [Hackerproof]hackenproof.com)
-- [Hackerhive]hackerhive.io)
+- [Detectify](cs.detectify.com)
+- [Freedom Sponsers](freedomsponsers.org)
+- [Hackerproof](hackenproof.com)
+- [Hackerhive](hackerhive.io)
 - [HackerOne](HackerOne.com)
 - [Integriti](https://integriti.com)
 - [Safehats](https://safehats.com)
