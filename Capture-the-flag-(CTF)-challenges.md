@@ -9,34 +9,34 @@ CTF are texts or strings that are purposefully hidden.
 - [CTF365](ctf365.com)
 - [Hacker101](ctf.hacker101.com)
 - [CTF Time](CTFtime.com)
-- echoctf.com
-- Hackthebox.com
-- Hackthissite.org
-- hackasat.com
-- OverTheWire.org
+- [EchoCTF](https://echoctf.com)
+- [Hack the box](https://hackthebox.com)
+- [Hack this site](Hackthissite.org)
+- [Hack A Sat](hackasat.com)
+- [Over the wire](OverTheWire.org)
 - [Pico CTF](play.picoctf.org)
-- ringzer0ctf.com
-- Root-Me.org
-- TryhackMe.com
+- [Ringzer0CTF](https://ringzer0ctf.com)
+- [ROot Me](https://root-Me.org)
+- [Try Hack Me](https://tryhackMe.com)
  
 
 
 
 📌To be better in CTF, build a team and each member to specialize in a given category.
          
-# Types of CTFs.
+## Types of CTFs.
 
-1. Jeopardy 
+### 1. Jeopardy 
 - Reverse
 - Pwn
 - Crypto
 - Web
 - Mise
 
-2. Attack & defence
+### 2. Attack & defence
 
 
-# Categories of CTFs.
+## Categories of CTFs.
 
 ### 1. General skills
 - Scripting
@@ -79,13 +79,13 @@ CTF are texts or strings that are purposefully hidden.
 - The heap
 - The stack
 
-# Software tools.
+## Software tools for CTF.
 
-## Virtualization 
+### Virtualization 
 - VMware
 - Virtual Box 
 
-## Programming 
+### Programming 
 - Python 
 - Pwntools
 
@@ -94,10 +94,12 @@ CTF are texts or strings that are purposefully hidden.
 
 # Resources.
 
-## Github repos
+### Github repositories
+
 - [Awesome-CTF bby Apsdehal](https://github.com/apsdehal/awesome-ctf)
 
-## Websites
+### Websites
+
 - [Forenscis wiki](https://forensics.wiki)
 
 
