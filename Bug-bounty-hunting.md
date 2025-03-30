@@ -13,26 +13,26 @@ These are platforms where you can report bugs.
 1. Open for signup
 - [Bountysource](bountysource.com)
 - [BountyFactory](bountyfactory.io)
-- bugbounty.jp
-- bugcrowd.com
-- bughunters.google.com
-- cesppa.com/
-- cobalt.io
-- coderbounty.com
-- cs.detectify.com
-- freedomsponsers.org
-- hackenproof.com
-- hackerhive.io
-- HackerOne.com
-- integriti.com
-- safehats.com
+- [Bugbounty JP](https://bugbounty.jp)
+- [Bug crowd](https://bugcrowd.com)
+- [Google Bug Hunters](https://bughunters.google.com)
+- [Cesppa](https://cesppa.com/)
+- [Cobalt](https://cobalt.io)
+- [Codee bounty](oderbounty.com)
+- [ Detectify]cs.detectify.com)
+- [Freedom Sponsers]freedomsponsers.org)
+- [Hackerproof]hackenproof.com)
+- [Hackerhive]hackerhive.io)
+- [HackerOne](HackerOne.com)
+- [Integriti](https://integriti.com)
+- [Safehats](https://safehats.com)
 - [Sysnack](synack.com)
 - [Yeswehack](yeswehack.com)
 
 
 2. Invite-based platforms
-- antihack.me
-- bugbountyzone.com/
+- [Antihack](https://antihack.me)
+- [Bug bounty Zone](bugbountyzone.com/)
 - cobalt.io/
 - synack.com/red-team/
 - vulnscope.com/
